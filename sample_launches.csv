@@ -1,0 +1,4 @@
+launch id,company,location,launch date,rocket,mission,status mission,mission type,orbit,payload mass kg
+demo-001,Example Space Agency,Example Coastal Launch Site,2024-01-08T12:30:00Z,Example-1,Example Communications Satellite,Success,Communications,LEO,1200
+demo-002,Example Orbital Company,Example Inland Spaceport,2024-04-15T08:00:00Z,Example-2,Example Earth Observation Payload,Success,Earth Observation,SSO,850
+demo-003,Example Research Agency,Example Coastal Launch Site,2024-09-22T19:45:00Z,Example-1,Example Science Probe,Failure,Science,Interplanetary,500

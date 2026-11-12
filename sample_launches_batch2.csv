@@ -1,0 +1,4 @@
+launch id,company,location,launch date,rocket,mission,status mission,mission type,orbit,payload mass kg
+demo-004,Example Lunar Services,Example Desert Spaceport,2024-02-19T03:20:00Z,Example-3,Example Lunar Mapper,Success,Science,Lunar Transfer,1450
+demo-005,Example Communications Group,Example Pacific Launch Complex,2024-06-11T16:05:00Z,Example-4,Example Broadband Cluster,Success,Communications,LEO,7200
+demo-006,Example National Space Office,Example Northern Range,2024-11-03T22:40:00Z,Example-2,Example Weather Satellite,Failure,Weather,SSO,980
