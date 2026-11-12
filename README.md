@@ -12,6 +12,6 @@ A local data warehouse for organizing and analyzing space mission launch data wh
 - SQL — defines tables and queries launch trends, outcomes, and data quality.
 - Python — ingests API/CSV data and loads it into DuckDB.
 - Requests — sends requests to the Launch Library and NASA APIs.
-## Output
+## [Output](launches.csv) 
 
 
